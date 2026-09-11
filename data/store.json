@@ -1,0 +1,61 @@
+{
+  "sessions": [
+    {
+      "scenario": "Tech Job Interview (Lead Engineer)",
+      "started_at": "Today, 04:10 PM",
+      "duration_seconds": 43,
+      "words_spoken": 33,
+      "cefr_level": "B1",
+      "accuracy_percent": 88,
+      "transcript": [
+        {
+          "role": "tutor",
+          "text": "Tell me about a time you resolved a critical production incident."
+        },
+        {
+          "role": "user",
+          "text": "Last month our database was having high cpu usage due to unindexed queries."
+        },
+        {
+          "role": "user",
+          "text": "the problem is my disc is not full"
+        },
+        {
+          "role": "tutor",
+          "text": "Oh, I totally get that—chasing down those unindexed queries can be such a headache! How did you end up identifying that the CPU was the bottleneck, rather than storage?"
+        },
+        {
+          "role": "user",
+          "text": "but engross notes are food so how do I fix that"
+        },
+        {
+          "role": "tutor",
+          "text": "That's a classic trap! If your logs are filling up, you'll want to rotate them or adjust the logging levels so you can actually diagnose those performance issues."
+        },
+        {
+          "role": "user",
+          "text": "wait wait"
+        },
+        {
+          "role": "tutor",
+          "text": "No worries, take your time! I'm listening. Did you want to circle back to something about those database queries or the log issue?"
+        },
+        {
+          "role": "user",
+          "text": "I am saying that I am running a dinner machine"
+        },
+        {
+          "role": "user",
+          "text": "Linux machine"
+        }
+      ],
+      "id": 1788432010740,
+      "created_at": "2026-09-03T10:40:10.741Z"
+    }
+  ],
+  "vocab": [],
+  "stats": {
+    "totalWords": 33,
+    "streakDays": 1
+  }
+}

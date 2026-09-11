@@ -1,0 +1,8 @@
+node_modules
+.env
+.env.local
+*.log
+data/glish.db
+data/glish.db-wal
+data/glish.db-shm
+.DS_Store
